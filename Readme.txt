@@ -1,6 +1,4 @@
-#HackElite
 Reimagining methods to reuse waste water.
-Theme:Open Innovation
 
 Problem Statement: Reusing,reducing and recycling of waste water using cutting edge technology.
 
